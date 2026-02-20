@@ -1,0 +1,88 @@
+{
+  "simulation_window_months": 12,
+  "target_total_transactions": 65000,
+
+  "base_monthly_rate_by_risk": {
+    "Low": 18,
+    "Medium": 35,
+    "High": 60
+  },
+
+  "type_multiplier": {
+    "individual": 1.0,
+    "business": 1.4
+  },
+
+  "status_multiplier": {
+    "active": 1.0,
+    "restricted": 0.5
+  },
+
+  "monthly_noise_std": 0.15,
+
+  "cross_border_probability": {
+    "Low": 0.03,
+    "Medium": 0.12,
+    "High": 0.35
+  },
+
+  "high_risk_corridor_probability": {
+    "Low": 0.001,
+    "Medium": 0.01,
+    "High": 0.08
+  },
+
+  "channel_mix": {
+    "Low": {
+      "card": 0.55,
+      "ach": 0.25,
+      "wire": 0.08,
+      "p2p": 0.10,
+      "crypto": 0.02
+    },
+    "Medium": {
+      "card": 0.40,
+      "ach": 0.25,
+      "wire": 0.15,
+      "p2p": 0.10,
+      "crypto": 0.10
+    },
+    "High": {
+      "card": 0.25,
+      "ach": 0.15,
+      "wire": 0.30,
+      "p2p": 0.10,
+      "crypto": 0.20
+    }
+  },
+
+  "amount_multipliers_by_channel": {
+    "card": 1.0,
+    "ach": 1.5,
+    "wire": 4.0,
+    "p2p": 0.8,
+    "crypto": 3.0
+  },
+
+  "pattern_injection_rates": {
+    "structuring": 0.01,
+    "velocity_spike": 0.007,
+    "crypto_funnel": 0.005,
+    "mule_pattern": 0.004,
+    "round_amount_pattern": 0.02
+  },
+
+  "alert_target_rate": 0.03,
+
+  "velocity_thresholds": {
+    "1h_count": 5,
+    "24h_count": 20
+  },
+
+  "structuring_threshold": 10000,
+
+  "weekend_activity_bias": {
+    "individual": 0.65,
+    "business": 0.25
+  }
+}

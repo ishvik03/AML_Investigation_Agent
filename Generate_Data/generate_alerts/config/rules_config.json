@@ -1,0 +1,74 @@
+{
+  "rule_set_version": "v1.0",
+  "rules": [
+    {
+      "rule_id": "TXN_LARGE_AMOUNT",
+      "name": "Large single transaction",
+      "type": "single_transaction",
+      "severity": "medium",
+      "base_score": 35,
+      "conditions": [
+        { "field": "amount_usd", "op": ">=", "value": 20000 }
+      ]
+    },
+    {
+      "rule_id": "TXN_HIGH_RISK_CORRIDOR",
+      "name": "High-risk corridor transaction",
+      "type": "single_transaction",
+      "severity": "high",
+      "base_score": 70,
+      "conditions": [
+        { "field": "is_high_risk_corridor", "op": "==", "value": true }
+      ]
+    },
+    {
+      "rule_id": "TXN_CRYPTO_EXCHANGE",
+      "name": "Crypto transaction to exchange",
+      "type": "single_transaction",
+      "severity": "medium",
+      "base_score": 40,
+      "conditions": [
+        { "field": "channel", "op": "==", "value": "crypto" },
+        { "field": "counterparty_type", "op": "==", "value": "exchange" }
+      ]
+    },
+
+    {
+      "rule_id": "AGG_VELOCITY_1H",
+      "name": "Velocity spike: >=5 tx in 1 hour",
+      "type": "aggregation",
+      "severity": "high",
+      "base_score": 75,
+      "window": { "unit": "hours", "value": 1 },
+      "metric": { "type": "count", "op": ">=", "value": 5 }
+    },
+    {
+      "rule_id": "AGG_STRUCTURING_24H",
+      "name": "Structuring: >=3 tx between 9800-10000 within 24h",
+      "type": "aggregation",
+      "severity": "high",
+      "base_score": 80,
+      "window": { "unit": "hours", "value": 24 },
+      "filter": [
+        { "field": "amount_usd", "op": ">=", "value": 9800 },
+        { "field": "amount_usd", "op": "<", "value": 10000 },
+        { "field": "direction", "op": "==", "value": "debit" }
+      ],
+      "metric": { "type": "count", "op": ">=", "value": 3 }
+    },
+
+    {
+      "rule_id": "PATTERN_CRYPTO_FUNNEL_7D",
+      "name": "Crypto funnel pattern: repeated crypto to exchanges in 7d",
+      "type": "pattern",
+      "severity": "high",
+      "base_score": 85,
+      "window": { "unit": "days", "value": 7 },
+      "filter": [
+        { "field": "channel", "op": "==", "value": "crypto" },
+        { "field": "counterparty_type", "op": "==", "value": "exchange" }
+      ],
+      "metric": { "type": "count", "op": ">=", "value": 5 }
+    }
+  ]
+}

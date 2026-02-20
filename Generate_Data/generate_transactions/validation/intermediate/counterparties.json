@@ -1,0 +1,2802 @@
+[
+  {
+    "counterparty_id": "bcebfe19-290f-4199-b7cc-2a3025dde2a4",
+    "name": "Manufacturing_4101",
+    "type": "business",
+    "country": "Canada",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "33d3ab94-9c71-45fb-8143-a4f713c51f10",
+    "name": "Retail_1939",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ac8dd475-1560-4429-a83e-845ce54c8cbb",
+    "name": "Crypto_3943",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "40b0e6a6-5318-4e34-898a-de87206ade3d",
+    "name": "Import_export_3998",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "fb346843-36ef-42d9-aa23-c9117b68a508",
+    "name": "Retail_9742",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a378d4ef-e9fc-4ca5-8689-9ca333022b7c",
+    "name": "Crypto_8135",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "837a44ea-ff8e-4274-bfa1-5a857924c676",
+    "name": "Airline_5702",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "2b6c33d1-8269-4997-87e8-e18b9802dc02",
+    "name": "Retail_4640",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f643c59c-0174-43d6-9a10-07ea8354f478",
+    "name": "Retail_4187",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "99c74b96-6b43-4afc-a4dc-300e8a33583a",
+    "name": "Retail_4904",
+    "type": "merchant",
+    "country": "India",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f99246c7-09bf-4c36-926c-8c50e8683434",
+    "name": "Import_export_2848",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5b8b0b8c-e5ae-4c54-b66a-ab1e58fef6ad",
+    "name": "Utilities_1175",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ff0f1183-7be6-4382-9f7e-d1ad6f51805f",
+    "name": "Money_transfer_1017",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "94ede868-8836-4270-9bbe-8d5770e58eba",
+    "name": "Airline_9733",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5ec75e17-d4ee-4b89-9530-fe0ad6f42354",
+    "name": "Groceries_3522",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ab438f4e-1dab-43ba-96e3-14ca5b193b5c",
+    "name": "Money_transfer_9822",
+    "type": "msb",
+    "country": "Canada",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "1c303a75-02ab-49b2-b69d-854d54ba8638",
+    "name": "Groceries_5633",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ad238079-1dc1-4112-897b-57fa669a1fc1",
+    "name": "Airline_9484",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c5703d28-d838-478e-a54c-4490bc2a3285",
+    "name": "Restaurant_6077",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8faf0cb4-3359-41db-a97c-6cd38b49dbdc",
+    "name": "Groceries_7032",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a4fe0c41-fbce-4d94-8977-43bd0848d5b3",
+    "name": "Logistics_8190",
+    "type": "business",
+    "country": "India",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1be93231-9bb0-49cb-a9a3-bf379575e325",
+    "name": "Offshore_services_9383",
+    "type": "shell_entity",
+    "country": "Turkey",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "d6cceb13-0b45-4ea8-a779-31c70b0b536d",
+    "name": "Crypto_2523",
+    "type": "exchange",
+    "country": "United States",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "621c7291-8ec1-49fe-8038-7f60200faef5",
+    "name": "Logistics_3032",
+    "type": "business",
+    "country": "India",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e2ca602b-c193-4723-83ba-bba6aa7cabb9",
+    "name": "Groceries_6623",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0e320f9d-0cba-45f1-8bdd-50c74f44f341",
+    "name": "Import_export_3198",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "44f96b7c-78af-4bc1-bfdc-b1be7b91b755",
+    "name": "Groceries_9861",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7f1979ed-94ca-4cd9-a680-e1331839bb10",
+    "name": "Groceries_6538",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f83846f4-8e0c-4d8c-8fe1-e038d05175df",
+    "name": "Offshore_services_4617",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "ccd8e926-3e09-4082-b696-ecd3754801e6",
+    "name": "Manufacturing_6526",
+    "type": "business",
+    "country": "India",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "116f99fd-ece6-4037-84d1-8e136994038c",
+    "name": "Offshore_services_4823",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "ec43e183-2f21-41f8-9439-f226020c38b4",
+    "name": "Import_export_9596",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "223b3754-57fe-45f0-8ecc-450cf63e8e31",
+    "name": "Offshore_services_3174",
+    "type": "offshore_entity",
+    "country": "UAE",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "be3f683c-0773-4a1c-ab85-5bb537be03dc",
+    "name": "Retail_2777",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "628b8f91-d4f0-469f-8694-314b62971929",
+    "name": "Logistics_3972",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f65ee119-38f7-4596-8a1a-3d201004f851",
+    "name": "Money_transfer_1661",
+    "type": "msb",
+    "country": "Germany",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "28fca8b2-fbeb-4f5a-8a32-23c17f83a4ec",
+    "name": "Consulting_4789",
+    "type": "business",
+    "country": "UAE",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "efedd614-d250-4d95-994f-a404883542f8",
+    "name": "Retail_1212",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9dcb7950-fd01-487a-a494-33f1762ff123",
+    "name": "Manufacturing_4220",
+    "type": "business",
+    "country": "Canada",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1c4bd883-8ffc-444d-aadc-46129ea1d46f",
+    "name": "Airline_2854",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "2e147fa0-ecb7-4656-b82a-72ffaa531782",
+    "name": "Manufacturing_1267",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "07aa0664-4dc3-4d2c-8a7c-71865fdfb461",
+    "name": "Airline_4566",
+    "type": "merchant",
+    "country": "North Korea",
+    "category": "airline",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "636fd111-bd7b-421a-a0e8-1afe70567830",
+    "name": "Retail_4931",
+    "type": "merchant",
+    "country": "India",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6f1d6b58-2dd0-463c-83eb-223c7729663c",
+    "name": "Crypto_4286",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "b5e50ab6-62e8-4ff0-8650-9cb853580533",
+    "name": "Airline_9787",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3bfceb8d-f82d-4eb5-ac33-f8ad92bca6b9",
+    "name": "Groceries_5577",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "18364ffb-28dc-40d0-95f7-c4591fa5791e",
+    "name": "Import_export_4518",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "00ee16a6-ed6e-4760-8f89-dcf1ece8251e",
+    "name": "Utilities_6942",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7e34ccfa-de14-4c60-b2b0-aa05836cc279",
+    "name": "Utilities_4331",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0e8cd7ef-c7a6-4799-a628-4be561fc12c5",
+    "name": "Retail_8385",
+    "type": "merchant",
+    "country": "Syria",
+    "category": "retail",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "b1150ddf-b967-4365-8fb8-19c119bd6054",
+    "name": "Utilities_2820",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "11cb5c99-7c4b-4a20-8de9-a88bf7f9e4af",
+    "name": "Utilities_1972",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7a0ec3d3-920b-4e24-b48f-a65ea97119b1",
+    "name": "Retail_9506",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "77253e7e-9cae-4fa1-948b-cea60dcc066c",
+    "name": "Crypto_3838",
+    "type": "exchange",
+    "country": "Canada",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "d461d4a4-13e7-4353-a01c-2e5d63545f32",
+    "name": "Groceries_2616",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e7f4c637-c66b-48d7-ac3b-ba9f48868f51",
+    "name": "Import_export_6855",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "da47c2cf-c092-4190-be82-eaceebb221e5",
+    "name": "Logistics_1054",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "471f8e20-9983-469b-8451-e54469eda1a5",
+    "name": "Crypto_7840",
+    "type": "exchange",
+    "country": "United Kingdom",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "a05ca1d6-045f-4d11-9c62-c1eaae9c2610",
+    "name": "Offshore_services_9759",
+    "type": "shell_entity",
+    "country": "Germany",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "798dd2d8-f87c-4c9b-9468-f295bc5f2704",
+    "name": "Consulting_1274",
+    "type": "business",
+    "country": "UAE",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d65cf814-c795-4c29-8004-b7995ea7ee27",
+    "name": "Manufacturing_9351",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d15b9ed8-4443-47d0-863a-c8a43c156a8f",
+    "name": "Logistics_9151",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ad9a18e5-103b-40c3-86be-0c56cff5136c",
+    "name": "Manufacturing_2188",
+    "type": "business",
+    "country": "Turkey",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b07414ea-6db0-463c-9a3b-36b0486f8337",
+    "name": "Groceries_2547",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ab6da10a-7b1f-43d7-a8a0-66574fd3ea2b",
+    "name": "Consulting_3263",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e7ad3392-53dd-49c3-9ea7-09a895e00525",
+    "name": "Money_transfer_5149",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "32027725-b850-4586-91ad-a0cc44eb5f58",
+    "name": "Offshore_services_5948",
+    "type": "offshore_entity",
+    "country": "Canada",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "68bc289a-7946-4c72-abf3-1694ea72dd39",
+    "name": "Groceries_8448",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d8e0a70b-296f-4abd-ac4f-ee8dd46628fa",
+    "name": "Crypto_8795",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "14440994-2697-4a24-9e96-be4824747089",
+    "name": "Retail_9784",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9fcc8d55-fbac-4470-84aa-7920fb0160f4",
+    "name": "Consulting_8973",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b7427ce3-9a98-48b6-9515-96eef2dca6cd",
+    "name": "Import_export_7591",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5447704e-06a3-48bc-a186-bff378d6a8fc",
+    "name": "Manufacturing_5326",
+    "type": "business",
+    "country": "India",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "525b8f2a-3c91-4477-9cfd-6d74bb57e525",
+    "name": "Restaurant_7493",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ee04c0dc-b9d0-4b9a-af84-94fc55875324",
+    "name": "Restaurant_8471",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "eb7cac21-a7ea-4dd9-9759-5f8b315a51c6",
+    "name": "Retail_8192",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "beb7f888-2daf-4dc2-be5b-46ef36be8e95",
+    "name": "Retail_9901",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "fbd57255-2da7-4f8d-b361-5f3df468d1ca",
+    "name": "Offshore_services_2639",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "0dcbee44-e4c4-44c3-9adf-f0027495a31e",
+    "name": "Airline_7799",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e6f2081b-4623-4674-9e16-1e032f3555b9",
+    "name": "Crypto_9944",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "97b80b0f-e4cb-4d55-ae91-d97a3adf946e",
+    "name": "Restaurant_1842",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "388e82da-2ccd-48f4-a8af-a14975b18ef6",
+    "name": "Manufacturing_3268",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5db35f9b-1890-4ad2-8e62-fe2bf3515846",
+    "name": "Retail_9678",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d3a5eb20-06fd-40d5-a7dc-c9e3411458ed",
+    "name": "Crypto_9657",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "31b49bd6-d31f-4393-816d-e085c5b5ce14",
+    "name": "Restaurant_3210",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "facf2abf-a6a0-4891-936d-083dd9e11a11",
+    "name": "Groceries_1790",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ee5df588-081f-45ba-a085-88968c254ad9",
+    "name": "Restaurant_3200",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c8853c4f-80b3-4da7-8155-9022c8478ad3",
+    "name": "Restaurant_1726",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "39a74897-8003-47c4-ba24-e34db17c1a2c",
+    "name": "Import_export_8007",
+    "type": "business",
+    "country": "Germany",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "bce1cff5-5cd9-42b6-afc7-9985ef45b318",
+    "name": "Airline_4483",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "783d3ce1-0b39-4b3b-ad41-0dd696d50297",
+    "name": "Manufacturing_2968",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8451042a-a752-453e-9755-f03f3a6fad87",
+    "name": "Import_export_1609",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8f61a9a8-be22-4747-930e-796b62955573",
+    "name": "Airline_7483",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "57199eda-518b-4d1a-ae49-8740fb9d50a1",
+    "name": "Restaurant_9729",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "aa1e173e-9992-4f79-9190-86bd1e53a6d9",
+    "name": "Airline_3961",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f561c781-3375-40f6-a02a-72939044ae4f",
+    "name": "Groceries_9339",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "87ff00eb-57c2-461a-95bc-cca084a79786",
+    "name": "Consulting_4711",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b19ffe4b-beb3-4d66-a4f8-fadd73ee8ac7",
+    "name": "Crypto_5332",
+    "type": "exchange",
+    "country": "Canada",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "7d01a62b-b2ee-4599-8199-c5917ebcb53e",
+    "name": "Offshore_services_2002",
+    "type": "offshore_entity",
+    "country": "Canada",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "27d476a4-d757-4f9b-afd5-a3488cb7e2c3",
+    "name": "Offshore_services_7266",
+    "type": "shell_entity",
+    "country": "Iran",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "45202765-eaa6-42c6-859c-2d4115d56ea1",
+    "name": "Offshore_services_1669",
+    "type": "offshore_entity",
+    "country": "India",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "83f1dbc4-d880-4dd6-a2ff-96752e52b55e",
+    "name": "Offshore_services_1004",
+    "type": "offshore_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "813e5394-a222-4d7f-88a2-4ed38450a25d",
+    "name": "Groceries_4188",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3e448e38-201c-4fd8-9ff9-f5b318b58890",
+    "name": "Consulting_4668",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f21b300d-e7e5-4a74-872e-5043fc789dfb",
+    "name": "Groceries_9526",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ab5a071b-d933-47c7-9c3f-dcb90c57ded4",
+    "name": "Airline_2202",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a4809670-4e9e-48bf-ba5a-82a4d3b73802",
+    "name": "Consulting_4991",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0e7ab9a5-74f1-4708-bf66-fbf1c1291fa9",
+    "name": "Consulting_9229",
+    "type": "business",
+    "country": "Canada",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "fb555c82-472a-4ed4-aa9a-ff3b4ff201ea",
+    "name": "Groceries_4376",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3cfc1311-6d8d-47f1-a31f-faf1d3fdcd40",
+    "name": "Money_transfer_3452",
+    "type": "msb",
+    "country": "Canada",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "7a87db57-eeca-4a05-a322-579ff161da94",
+    "name": "Money_transfer_9819",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "33bba195-68b9-4504-b9eb-fc02c696e13f",
+    "name": "Consulting_8152",
+    "type": "business",
+    "country": "Canada",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cef7f763-6fd6-4142-b70f-aefa5256cf39",
+    "name": "Restaurant_5481",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cf32e44e-8192-41aa-af51-2116b4f8a212",
+    "name": "Restaurant_3790",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cbcff5b1-db3d-49d0-8a5d-7b8667a35c1c",
+    "name": "Manufacturing_2070",
+    "type": "business",
+    "country": "UAE",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "85350076-7a51-4254-9967-85cf9459140c",
+    "name": "Groceries_4895",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "47dcc93c-641a-4af1-8d49-012fed3cfa2e",
+    "name": "Groceries_3527",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "097231fc-f535-4767-a7d9-fb4d2cba043c",
+    "name": "Crypto_3753",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "cdba3156-972e-402d-9716-adfe6bf68ac0",
+    "name": "Retail_8529",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b58dbde1-e34d-437d-9faf-032b30a81883",
+    "name": "Money_transfer_6288",
+    "type": "msb",
+    "country": "UAE",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "15659bd4-6c47-4b2b-b6b1-67aadbed056f",
+    "name": "Utilities_6256",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7b071f1b-03a0-41b3-920f-f56634ed93f9",
+    "name": "Airline_2004",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cd7e1341-5192-4cd2-81e6-ebace96915ad",
+    "name": "Utilities_4819",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "18d10779-4ee6-4ef4-8d3d-bfa16382f33b",
+    "name": "Consulting_8719",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "08169ba4-6fd1-43e8-bc94-1c0996f0a004",
+    "name": "Retail_2653",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "218fb47b-f833-4010-8947-11a7403ea95c",
+    "name": "Retail_9870",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c352a7c9-1d40-4743-9ec6-e50e8c25a96b",
+    "name": "Import_export_3760",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f8a7e4bf-8b92-4d43-aaa5-80de5745bf50",
+    "name": "Money_transfer_3474",
+    "type": "msb",
+    "country": "Germany",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "90c33dc0-3b5c-4ff0-a392-4d65df09bb3b",
+    "name": "Manufacturing_7272",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "80088956-d385-4ffc-8f7e-1948a6d808c0",
+    "name": "Logistics_3708",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9cde410d-6b1c-4a19-b95b-1688b51a2a85",
+    "name": "Restaurant_3368",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "00019a63-bea2-40e0-a547-52aa08ed9994",
+    "name": "Restaurant_3921",
+    "type": "merchant",
+    "country": "Iran",
+    "category": "restaurant",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "f4d329cd-ff1b-40ce-b52d-d3b46a4704c5",
+    "name": "Retail_3229",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f9f3dd37-72b4-4fe2-a5f9-99ec46c76f41",
+    "name": "Groceries_6328",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3d806162-7dec-4cb4-82c5-3b9b91c7f96a",
+    "name": "Manufacturing_6197",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "64a1f9d0-2d0c-4ad5-96a3-4cc476f5e034",
+    "name": "Airline_4456",
+    "type": "merchant",
+    "country": "India",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6b6cb4f3-ce7e-4736-a552-eebf6027f3cb",
+    "name": "Logistics_6899",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0e2c48f0-5d28-4bef-9038-1e1372869d42",
+    "name": "Airline_7672",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "61c3b50c-bf7d-4b4f-bf8b-1a15def3144f",
+    "name": "Import_export_6185",
+    "type": "business",
+    "country": "UAE",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ab8fa27b-eb53-417e-92b0-466a821a1d13",
+    "name": "Retail_7318",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "be27673e-071d-42ab-81db-27df6bf859ce",
+    "name": "Import_export_5981",
+    "type": "business",
+    "country": "India",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d4a36c95-a99e-4cab-aa58-295e77d3face",
+    "name": "Airline_2769",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a698544e-81d2-4dc8-8e8b-9840ef452795",
+    "name": "Utilities_1857",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0f2a2a33-e9da-4dd8-a8c4-f7ccef3c1998",
+    "name": "Consulting_4188",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c88f0394-bf6f-4d18-98d3-168f55a57941",
+    "name": "Offshore_services_8305",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "a55a50ab-3802-4636-aff7-21eaa5079c7c",
+    "name": "Airline_7891",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "63bc602f-6bff-46a2-b9bb-1751666f09ad",
+    "name": "Offshore_services_4392",
+    "type": "shell_entity",
+    "country": "Canada",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "855bbcea-7cbc-4705-b90a-090d58d29767",
+    "name": "Retail_2812",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "07532f15-bbac-4e8b-9906-5669e861458b",
+    "name": "Utilities_1422",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b99b6fd9-33f0-4110-ab06-dfc1d78308ad",
+    "name": "Retail_9341",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7d330cd7-bc9c-43fa-9ce9-74abaed3c19f",
+    "name": "Import_export_7106",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "03fef380-5cc6-4e00-b938-3671e27adc88",
+    "name": "Restaurant_9954",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3cda4874-0e8b-4a10-be61-b2801d9f756f",
+    "name": "Retail_4141",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "16200571-b4d8-46b4-8d17-7ec059b0d365",
+    "name": "Restaurant_2353",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "be60c393-667b-4a95-a404-b22a4c4a76ea",
+    "name": "Airline_1901",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a512682b-0230-4f4e-aed7-d04758432893",
+    "name": "Offshore_services_7533",
+    "type": "offshore_entity",
+    "country": "Germany",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "3a92d540-2e92-4f8e-96c4-b9fc2fa2bd6b",
+    "name": "Retail_5272",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "00661b6c-0067-4641-bba0-b61d9fee070f",
+    "name": "Restaurant_3784",
+    "type": "merchant",
+    "country": "India",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "eb4f5c24-a8c4-418f-865f-acd6a8be0d9e",
+    "name": "Groceries_6471",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3872183b-7728-4537-a985-ab50877bd9ab",
+    "name": "Offshore_services_1979",
+    "type": "offshore_entity",
+    "country": "United Kingdom",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "8c1db72b-9d53-4a05-a3d0-348f2bf74e99",
+    "name": "Logistics_8946",
+    "type": "business",
+    "country": "Canada",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e86f9d61-7079-477b-af4e-b64d37186750",
+    "name": "Import_export_6408",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "410def96-0b60-4839-b006-a96238b20940",
+    "name": "Manufacturing_5494",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "09a8d124-561e-402a-b3c8-f1a6ad2627f5",
+    "name": "Groceries_1043",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "961a1260-ce4e-47f2-8e45-43ff7b7ed198",
+    "name": "Offshore_services_2384",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "552fc612-b2c3-473b-b509-db4527353732",
+    "name": "Airline_7019",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d59d3eb0-0794-4b21-bed8-ddd745c93a15",
+    "name": "Money_transfer_8583",
+    "type": "msb",
+    "country": "UAE",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "a0c05af6-d75b-4e22-984f-3c3f889ee756",
+    "name": "Groceries_6119",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1153e0e6-a9a3-4d07-9eb6-96c395ddedfd",
+    "name": "Logistics_6148",
+    "type": "business",
+    "country": "UAE",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a16ce39f-c803-4d9b-bf6e-b3991a0a68cc",
+    "name": "Crypto_2511",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "87e84c0f-6ebc-4337-8adc-de4f523fadf6",
+    "name": "Utilities_1501",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1d41c87b-2994-4c24-a331-320655713a9f",
+    "name": "Retail_3233",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9ef16acd-3337-439c-84a6-fa68e0a57160",
+    "name": "Restaurant_5982",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1264402c-5170-453f-8efe-3716409f1563",
+    "name": "Restaurant_5058",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "73c580c0-bf81-49e0-a8d8-ef41c3ce30a1",
+    "name": "Utilities_8161",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f7d7448f-eaed-48e9-9a56-1f2a7e516055",
+    "name": "Crypto_7652",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "4073cf64-577c-413d-a4ee-5e7a222ffb62",
+    "name": "Restaurant_1206",
+    "type": "merchant",
+    "country": "Iran",
+    "category": "restaurant",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "c5d1a510-08ad-4d08-b69d-38b7dbc1d72b",
+    "name": "Crypto_9209",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "37e532c0-c4be-4f06-ba7c-c4143e7434b5",
+    "name": "Manufacturing_5701",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ba644e4d-d244-431a-8800-df23fcb646f7",
+    "name": "Airline_1243",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "364313d9-db75-4ff2-9c37-0086b979276d",
+    "name": "Crypto_2129",
+    "type": "exchange",
+    "country": "Canada",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "29e4067b-9f4c-4809-840e-d3256bb578ce",
+    "name": "Restaurant_7488",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "863a3e90-5484-419a-9175-8c63db56a140",
+    "name": "Utilities_1061",
+    "type": "merchant",
+    "country": "India",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f02b08de-150f-412b-8780-4a512da669d3",
+    "name": "Groceries_9366",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7767e525-44e3-4c82-8dc4-bc2396073f99",
+    "name": "Retail_3477",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8ebd70b3-cc3e-4171-be75-e9758e3f5af7",
+    "name": "Crypto_1953",
+    "type": "exchange",
+    "country": "United States",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "8921bc8f-3b93-4cae-9243-bc7acfc2d6f7",
+    "name": "Retail_5600",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "58935c11-016c-48c2-963e-61d73cb3fe0b",
+    "name": "Utilities_2741",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6d8163e6-db96-4a7c-bf28-557b82d4b50e",
+    "name": "Groceries_6223",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e9925d9c-7220-4894-b149-5d11d18dde6e",
+    "name": "Money_transfer_5323",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "8ae35ca3-17c0-4d14-a58c-23835d6a5bc5",
+    "name": "Restaurant_9566",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e18f9b74-38ce-44ee-9fff-285881842c6a",
+    "name": "Restaurant_9716",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3075ffd9-d642-44cb-a506-0976a1daab9a",
+    "name": "Airline_7427",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "fd387d9d-45bc-45da-a38e-e31880831f35",
+    "name": "Logistics_3068",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5456195f-41d6-4ec9-a77a-dcc4c15e6a11",
+    "name": "Airline_4667",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "aef6f30f-717e-4d41-bf17-0acab70b31fc",
+    "name": "Import_export_6266",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0442c293-12a0-43c8-bd31-7d2e3c8a3e2e",
+    "name": "Money_transfer_3991",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "9dd12472-54ff-4470-a033-01e3f1baf8bc",
+    "name": "Restaurant_6780",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "120578c8-8e6b-40a8-ac48-f0bdc52b9416",
+    "name": "Groceries_4571",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "93e60b82-5a52-4ccb-9ff4-91fde3323590",
+    "name": "Logistics_1405",
+    "type": "business",
+    "country": "Germany",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "4f8cbe91-8a81-4e7e-84ac-11699885f0e0",
+    "name": "Import_export_6943",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c543270f-7f90-4da4-8fc9-66d3c80d5365",
+    "name": "Offshore_services_8244",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "36589d98-87a6-47b5-9c13-a95f380520c0",
+    "name": "Airline_7874",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a8a00ae8-df0d-4294-b26b-02bcc19b483d",
+    "name": "Crypto_7644",
+    "type": "exchange",
+    "country": "United States",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "9304eaea-087b-4ec3-be43-a2b67208c7d0",
+    "name": "Restaurant_3974",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c5a0a4bd-7660-4453-bad0-cc61d07df0a1",
+    "name": "Offshore_services_2472",
+    "type": "offshore_entity",
+    "country": "Syria",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "e160f16a-fc73-4503-9de3-75a365263f4d",
+    "name": "Airline_7760",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "143ca0a7-24fe-45fd-9330-c6c2eead4e13",
+    "name": "Airline_1248",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ee7dfd6b-0bc2-4a51-9b0b-9c50f468c26b",
+    "name": "Utilities_4314",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "be117c87-39eb-49a9-a118-6739a9ac3845",
+    "name": "Restaurant_3369",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "869a0d57-9ea8-4f86-b8ac-a102a313b3bf",
+    "name": "Import_export_3734",
+    "type": "business",
+    "country": "UAE",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d7e69252-095f-4577-8826-75b72bd5e95f",
+    "name": "Retail_3814",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ee78efc6-6011-462a-9142-c06dcd57d01c",
+    "name": "Airline_7177",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d9b3fc1a-1957-4ecd-8990-a538c642d0e2",
+    "name": "Utilities_1084",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e1b39701-d831-4afd-aee3-99fbc42ff5a8",
+    "name": "Airline_8502",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "32d82956-b901-48de-9d71-f74ab9a8a157",
+    "name": "Utilities_9956",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3f52856d-a305-4949-9503-5c04711a6e9a",
+    "name": "Groceries_5461",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b995700e-345b-40f6-bd8b-c097fb6a0165",
+    "name": "Crypto_3528",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "a9720df4-e9c8-4121-82f5-7910a546540c",
+    "name": "Crypto_9241",
+    "type": "exchange",
+    "country": "United Kingdom",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "65d2149f-11bd-46dd-a5fc-f5ee785be8f2",
+    "name": "Crypto_5646",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "e5bc61c6-1d18-439e-8001-4fe7d8005e72",
+    "name": "Crypto_7649",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "769bc928-77f5-410c-9230-00f8083afe59",
+    "name": "Consulting_1870",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "3c3db991-0e16-4b85-a6a6-11fc9da25e90",
+    "name": "Retail_9162",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "713b8b64-db51-4108-9649-b75387998837",
+    "name": "Money_transfer_2311",
+    "type": "msb",
+    "country": "United Kingdom",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "f48075c2-e425-44d6-ab7b-5008fb2ea5c2",
+    "name": "Retail_1366",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "75e16e6f-78a1-4189-9f08-45d73ff8ceb1",
+    "name": "Groceries_4907",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "00d4d240-e1fc-4912-bc1f-51982dd0f0e9",
+    "name": "Utilities_4641",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9372f2d1-67c7-4850-99e9-6c9c5ca468ba",
+    "name": "Logistics_3180",
+    "type": "business",
+    "country": "Germany",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "30efbf7c-d82d-4bbf-923f-340131c3daa9",
+    "name": "Crypto_5230",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "2e56833a-d373-4541-945e-bfc532228607",
+    "name": "Retail_9323",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c8664460-50ef-4bac-983f-4ef506cf1506",
+    "name": "Crypto_2534",
+    "type": "exchange",
+    "country": "United Kingdom",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "52645062-3b26-4f04-8bec-c2526a8670aa",
+    "name": "Restaurant_9852",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "35ae2254-6fe5-4e14-99e3-7f699b1a4aa7",
+    "name": "Crypto_4939",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "d33a3f64-d208-4fc7-b6e5-8544d2fb1705",
+    "name": "Offshore_services_4704",
+    "type": "shell_entity",
+    "country": "Germany",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "0ec49f86-dc99-4f9f-ae59-0b136229ec82",
+    "name": "Logistics_5762",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "204c626e-063d-43a5-818d-65db7381bcd8",
+    "name": "Utilities_1174",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "894664cb-5b87-4df6-8168-948b01ac9be2",
+    "name": "Groceries_7090",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c81c013d-3bf6-437f-b8eb-63e3dcf35e67",
+    "name": "Airline_2573",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6a23668b-ed7f-42b9-a2a2-35db188c87ef",
+    "name": "Groceries_6616",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "fb59fdf5-3a81-4816-870a-ca6fcfe82bea",
+    "name": "Restaurant_6841",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "649b56f6-b862-42d2-9edb-37051f5f11c3",
+    "name": "Airline_8705",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e7a30fcc-b8ba-4a42-bc7c-022f1cec9760",
+    "name": "Utilities_6036",
+    "type": "merchant",
+    "country": "India",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e905f9b4-3ace-4c95-a4ae-2df25cf1d42b",
+    "name": "Restaurant_5748",
+    "type": "merchant",
+    "country": "Iran",
+    "category": "restaurant",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "dfdbe6ae-3eca-475a-837a-2bde502e8241",
+    "name": "Airline_9275",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8013616f-ea1a-4634-83d9-06288c9b578b",
+    "name": "Consulting_5278",
+    "type": "business",
+    "country": "Canada",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cf733dd0-2776-42a2-9165-28f53f68f040",
+    "name": "Retail_1039",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6ba8cf61-6726-4681-a80d-1b6084c8e1fd",
+    "name": "Retail_5739",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "82aa57c5-19a0-449b-80b3-98b687f28780",
+    "name": "Consulting_6808",
+    "type": "business",
+    "country": "Iran",
+    "category": "consulting",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "98dc7a27-f474-4cb3-a304-67efa63a1e31",
+    "name": "Airline_9172",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1d4836a6-dee2-49dc-b739-a31733e878ed",
+    "name": "Restaurant_9914",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c00d8abb-5ff0-4ed9-8827-496a00e0af26",
+    "name": "Logistics_6689",
+    "type": "business",
+    "country": "India",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "133102f7-ccd2-4564-9b22-73a286312d3e",
+    "name": "Money_transfer_1749",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "1d2ce458-cd3a-42dd-a755-637f32b4ba41",
+    "name": "Crypto_3166",
+    "type": "exchange",
+    "country": "Germany",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "259fb9be-a2a0-49fb-a4f5-7c5a0f768865",
+    "name": "Offshore_services_2885",
+    "type": "shell_entity",
+    "country": "Germany",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "f0fca0a6-d69f-49e7-8726-8b9dd4d335db",
+    "name": "Groceries_1777",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1e25b779-1712-4649-b2f9-9f38fa88dd9b",
+    "name": "Money_transfer_8659",
+    "type": "msb",
+    "country": "United States",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "204ce377-c243-4dd9-8f87-c5bbaa8bf028",
+    "name": "Logistics_3593",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "1b7b6444-c4f7-44a2-959f-d19117f9710a",
+    "name": "Crypto_5935",
+    "type": "exchange",
+    "country": "UAE",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "76897e9e-a4e3-452b-bf56-df1aaa316d87",
+    "name": "Crypto_5094",
+    "type": "exchange",
+    "country": "United Kingdom",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "890d813e-5ad0-4330-81dd-d5e7796f9a2b",
+    "name": "Restaurant_1910",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f9320988-4c8d-47e9-b07e-3d3cdf4f5fad",
+    "name": "Groceries_3703",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "20ac7e11-6525-467f-97d7-4535427d6365",
+    "name": "Offshore_services_1977",
+    "type": "shell_entity",
+    "country": "Turkey",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "c134637f-7177-49c6-98c3-48cc7f9ed43e",
+    "name": "Crypto_4628",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "11b21898-04e8-4f9b-9db4-a419613fa168",
+    "name": "Groceries_9405",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "eee4ce72-70ab-4c7b-a5de-3bc38d9e83e3",
+    "name": "Logistics_8663",
+    "type": "business",
+    "country": "Canada",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "39d4f223-c033-4ddf-8fbc-b02213c568bb",
+    "name": "Airline_2357",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ed2e1e1c-0e75-48e9-8fbe-61bf2c1739ae",
+    "name": "Money_transfer_5189",
+    "type": "msb",
+    "country": "United Kingdom",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "8daff63c-f5e3-4327-92f6-e2078ec44c54",
+    "name": "Manufacturing_5790",
+    "type": "business",
+    "country": "India",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9e5f600f-4edc-4ce8-8e06-8b237b9e62d7",
+    "name": "Logistics_3678",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c5eb38cc-3e45-4349-ba43-f3cdad1282bc",
+    "name": "Offshore_services_8286",
+    "type": "offshore_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "8afd4675-4ee6-4eac-98b4-510cae8041c7",
+    "name": "Retail_2392",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7db22ae5-4ab8-4c7e-8235-9a5329557088",
+    "name": "Consulting_4968",
+    "type": "business",
+    "country": "Canada",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7fae68bc-3a00-46ea-b11c-72735e42243f",
+    "name": "Airline_4287",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "da5f7d01-1373-4122-975c-0f47a181a5be",
+    "name": "Restaurant_9282",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f8e23347-98f7-4e08-9897-390e791f0880",
+    "name": "Import_export_7497",
+    "type": "business",
+    "country": "United States",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d901fd88-bc8a-4c99-b856-eb64e6b14955",
+    "name": "Retail_6803",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6b68694f-8c7a-442a-bed7-bceec2532cd6",
+    "name": "Crypto_6305",
+    "type": "exchange",
+    "country": "United States",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "460c25e5-e72e-4c94-a330-bb5e235efd12",
+    "name": "Airline_1381",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c2536a78-9e7c-4b97-92fa-daf6fa9d7e29",
+    "name": "Consulting_8787",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "16e65833-6b69-4262-b8a8-2a3dea8b28b1",
+    "name": "Restaurant_8914",
+    "type": "merchant",
+    "country": "India",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d711d136-b0de-4c17-a174-ddee2ec815eb",
+    "name": "Retail_4512",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "27d10028-37dc-46f9-bbbb-16398af24c19",
+    "name": "Consulting_4471",
+    "type": "business",
+    "country": "United States",
+    "category": "consulting",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "66043155-9a9d-450c-8b8f-15f5f12ff4f1",
+    "name": "Logistics_4606",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "48dd16e8-443d-4057-a300-9d5f8dd11bd9",
+    "name": "Retail_1653",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0b60618f-6a03-40b3-bccf-0c4efc9bbdd1",
+    "name": "Crypto_8255",
+    "type": "exchange",
+    "country": "United States",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "e1ad4d39-34c0-4e7d-baeb-ccde99e70ab2",
+    "name": "Retail_3517",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "88633593-600a-4c3d-9101-f1c55c187da6",
+    "name": "Restaurant_7515",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "966be9f9-e7b1-4021-b9dc-285094177bae",
+    "name": "Utilities_5899",
+    "type": "merchant",
+    "country": "Turkey",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f1419efb-122d-489f-bfee-0e5123717777",
+    "name": "Airline_6808",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "2b0bb026-42ac-4b30-a2f2-45d720cd5dba",
+    "name": "Import_export_3729",
+    "type": "business",
+    "country": "Germany",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0ee9530e-d1cd-41ce-bad4-ace70892fe6c",
+    "name": "Manufacturing_7228",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a4c902c9-89fb-425d-aa26-50a6a6b4d8fa",
+    "name": "Logistics_8830",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e1827683-5d30-4187-b786-01687ad0b43d",
+    "name": "Offshore_services_9365",
+    "type": "offshore_entity",
+    "country": "North Korea",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "ea6db441-83b0-4f34-9981-ccd898e63dd6",
+    "name": "Groceries_1472",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "d92b53eb-2a9b-461e-9548-13711373d34b",
+    "name": "Airline_2986",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "02295948-587d-4fa3-87e7-369417d71f32",
+    "name": "Logistics_7980",
+    "type": "business",
+    "country": "UAE",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "44898c0b-4939-466e-81d7-013ee7b3b26c",
+    "name": "Offshore_services_1057",
+    "type": "shell_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "8ca5808b-ffd7-4cfa-8100-007a16b64db4",
+    "name": "Retail_7025",
+    "type": "merchant",
+    "country": "UAE",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b1a6304c-a8d0-4c24-99a2-4ab360b3380c",
+    "name": "Manufacturing_3371",
+    "type": "business",
+    "country": "North Korea",
+    "category": "manufacturing",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "54486a8f-1b84-42e6-b0eb-2e81d2386bb3",
+    "name": "Manufacturing_8402",
+    "type": "business",
+    "country": "United States",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "756d84e3-bc3f-49fe-97ea-6bb6556fe9e1",
+    "name": "Money_transfer_7356",
+    "type": "msb",
+    "country": "Canada",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "2c0e138f-5dc5-4b43-bdd8-770f17ec5ca5",
+    "name": "Airline_3648",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e38fc41a-c8ce-4933-8b41-3af57250e40d",
+    "name": "Airline_8925",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "491cf1bf-520e-4e40-8b6f-c601067d6ada",
+    "name": "Retail_5635",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "652a48c3-4a5f-48cd-ad39-7a4b3686b06a",
+    "name": "Manufacturing_5948",
+    "type": "business",
+    "country": "United Kingdom",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b1fdd124-c301-4636-a6e4-7b2993b47930",
+    "name": "Restaurant_5831",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "17604266-1631-4664-be83-86cfe2d92486",
+    "name": "Logistics_4685",
+    "type": "business",
+    "country": "Turkey",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "0eaf8694-7825-4182-8e13-13b7359622f7",
+    "name": "Utilities_8425",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f06634ac-2797-4d9f-a88c-41edf89467eb",
+    "name": "Airline_8610",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "2afb539e-a154-4eb6-9c2e-6ad940003f4a",
+    "name": "Groceries_8775",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5417e832-c523-4c8f-8451-e8847445a2bc",
+    "name": "Crypto_3962",
+    "type": "exchange",
+    "country": "Turkey",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "3f6b7bb7-baa8-4049-bb2d-ac4b882392ea",
+    "name": "Money_transfer_9577",
+    "type": "msb",
+    "country": "United Kingdom",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "71016940-84ad-4421-9c9b-cecd8f0b6c66",
+    "name": "Groceries_9239",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "6bac8d6c-2954-4701-9853-b2c52c1240f8",
+    "name": "Restaurant_4206",
+    "type": "merchant",
+    "country": "India",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "552e699b-1cae-427a-8bfc-383c119e862c",
+    "name": "Airline_1455",
+    "type": "merchant",
+    "country": "Syria",
+    "category": "airline",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "4f57b7ef-ca2a-4652-965f-fd45786481ca",
+    "name": "Retail_2143",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "7b196946-3749-4ee1-8cc8-efb7359f2013",
+    "name": "Import_export_1242",
+    "type": "business",
+    "country": "Germany",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e4eda92a-b345-4fa3-bee2-7f671742f337",
+    "name": "Utilities_8587",
+    "type": "merchant",
+    "country": "India",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e1521096-1e11-44c7-9475-8b2b90eff912",
+    "name": "Crypto_9538",
+    "type": "exchange",
+    "country": "United Kingdom",
+    "category": "crypto",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "25133f23-fca3-4d4c-a39b-39866f460d47",
+    "name": "Groceries_9022",
+    "type": "merchant",
+    "country": "Canada",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "b4bb5e04-ac19-4368-8d06-4d2805c891f9",
+    "name": "Manufacturing_5613",
+    "type": "business",
+    "country": "India",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "5c149040-58df-4ff7-b68f-6980b2f95cb3",
+    "name": "Offshore_services_2154",
+    "type": "offshore_entity",
+    "country": "Canada",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "6ea7a3c0-040b-48b2-bdca-e441f0f0c9a4",
+    "name": "Utilities_9967",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "be35da1e-e2cf-4ae4-b823-adfac0ed9216",
+    "name": "Offshore_services_7747",
+    "type": "offshore_entity",
+    "country": "United States",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "a9161290-7ce3-4c1b-ae1a-da7c40c5ab32",
+    "name": "Airline_4133",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c3085c9e-72d3-4824-acce-d2f03596f170",
+    "name": "Crypto_3085",
+    "type": "exchange",
+    "country": "Canada",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "3711fc0f-bf8d-4aed-83a7-4cd766d3d19c",
+    "name": "Groceries_8539",
+    "type": "merchant",
+    "country": "India",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "359261ae-df65-40e5-add2-e8027bc99487",
+    "name": "Restaurant_5829",
+    "type": "merchant",
+    "country": "Germany",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "c69706e2-8969-4c43-9c9b-121c1fe13307",
+    "name": "Utilities_2997",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "bec5b1be-66d6-4940-a244-a6b0192a60e8",
+    "name": "Retail_1689",
+    "type": "merchant",
+    "country": "United States",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "e3ca7da6-3a9a-4dda-a011-ba8679ef06e0",
+    "name": "Airline_3782",
+    "type": "merchant",
+    "country": "India",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "f56ca5f1-fb34-4461-9e66-6985a454acff",
+    "name": "Import_export_5483",
+    "type": "business",
+    "country": "Germany",
+    "category": "import_export",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ca95ebe0-9f1f-41ca-b907-2fff87dda502",
+    "name": "Money_transfer_3783",
+    "type": "msb",
+    "country": "Germany",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "84692d6a-14b4-449f-bcd0-421dd822ebd1",
+    "name": "Groceries_5252",
+    "type": "merchant",
+    "country": "United States",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "cca656e9-3e65-4504-a214-a1dc6ad0e3c9",
+    "name": "Logistics_2010",
+    "type": "business",
+    "country": "United States",
+    "category": "logistics",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ea6b83a4-8aba-481a-8701-1b72d6bc3c73",
+    "name": "Retail_4497",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ed07aff0-50c2-4d0f-a474-361028aa647f",
+    "name": "Airline_8784",
+    "type": "merchant",
+    "country": "India",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "bddcd004-5cc4-4fd7-b38d-a94317cbd826",
+    "name": "Airline_5488",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "9b53add5-24eb-4eeb-9778-ed7180ecfd78",
+    "name": "Restaurant_5508",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "8dcd4ef9-106a-4d7e-9d44-31edd00efb15",
+    "name": "Utilities_6901",
+    "type": "merchant",
+    "country": "United States",
+    "category": "utilities",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a78b4a91-484f-4210-a47d-f9fd62c2f3d6",
+    "name": "Money_transfer_4856",
+    "type": "msb",
+    "country": "Turkey",
+    "category": "money_transfer",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "f7885c9d-1953-4299-a3ad-3ed62653cb07",
+    "name": "Groceries_6914",
+    "type": "merchant",
+    "country": "India",
+    "category": "groceries",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "bb255796-85b4-4eb2-beb2-b5a90b4c86ac",
+    "name": "Crypto_9509",
+    "type": "exchange",
+    "country": "India",
+    "category": "crypto",
+    "risk_level": "medium"
+  },
+  {
+    "counterparty_id": "6514c2ba-9feb-4fa7-b528-1724a1cf88ac",
+    "name": "Retail_5168",
+    "type": "merchant",
+    "country": "India",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "487630b1-bf51-4f73-9018-619e504d17bf",
+    "name": "Airline_4766",
+    "type": "merchant",
+    "country": "United States",
+    "category": "airline",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "ffb340b6-944a-4ecd-b7e1-3e18d8471a92",
+    "name": "Restaurant_7827",
+    "type": "merchant",
+    "country": "United States",
+    "category": "restaurant",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "335e4a1b-5893-426a-a6c6-bed23f015e89",
+    "name": "Offshore_services_3584",
+    "type": "offshore_entity",
+    "country": "Germany",
+    "category": "offshore_services",
+    "risk_level": "high"
+  },
+  {
+    "counterparty_id": "4dfd36ce-6890-4bb4-897c-bc7c6f1557f6",
+    "name": "Retail_2349",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "retail",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "234802b3-356a-4e37-9bfe-fb1e454bc26b",
+    "name": "Manufacturing_2783",
+    "type": "business",
+    "country": "Turkey",
+    "category": "manufacturing",
+    "risk_level": "low"
+  },
+  {
+    "counterparty_id": "a8d0dac8-3f57-441f-917a-8aea4da8f118",
+    "name": "Groceries_1978",
+    "type": "merchant",
+    "country": "United Kingdom",
+    "category": "groceries",
+    "risk_level": "low"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "high_risk_countries": [
+    "Iran",
+    "North Korea",
+    "Syria"
+  ],
+  "domestic_risk": "low",
+  "common_corridors": {
+    "United States": [
+      "United Kingdom",
+      "Canada"
+    ],
+    "Germany": [
+      "Turkey"
+    ],
+    "UAE": [
+      "India"
+    ],
+    "United Kingdom": [
+      "United States"
+    ],
+    "Canada": [
+      "United States"
+    ]
+  },
+  "corridor_weights": {
+    "domestic": 0.7,
+    "common": 0.2,
+    "other_cross_border": 0.09,
+    "high_risk": 0.01
+  }
+}
