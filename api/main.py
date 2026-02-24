@@ -98,6 +98,7 @@ def run_case(req: RunRequest) -> Dict[str, Any]:
             "validation_errors": final_state.get("validation_errors", []),
             "policy_decision": final_state.get("policy_decision"),
             "llm_justification": final_state.get("llm_justification"),
+            "llm_justification_meta": final_state.get("llm_justification_meta"),
             "risk_signals": final_state.get("risk_signals"),
             "behavior_signals": final_state.get("behavior_signals"),
         }

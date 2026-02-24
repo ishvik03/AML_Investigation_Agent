@@ -16,8 +16,9 @@ class AgentState(TypedDict, total=False):
     # Policy decision output (deterministic)
     policy_decision: Dict[str, Any]  # store as dict to keep JSON-serializable
 
-    # LLM narrative (optional today)
-    llm_justification: Optional[str]
+    # LLM narrative (optional); dict when from real LLM node, else None
+    llm_justification: Optional[Dict[str, Any]]
+    llm_justification_meta: Optional[Dict[str, Any]]
 
     # Validation
     validation_ok: bool

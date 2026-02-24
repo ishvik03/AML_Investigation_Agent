@@ -22,7 +22,8 @@ interface AgentOutput {
     reasons: string[]
     required_next_actions?: string[]
   }
-  llm_justification?: string
+  llm_justification?: Record<string, string> | null
+  llm_justification_meta?: { ok: boolean; error?: string; model?: string } | null
   risk_signals?: unknown
   behavior_signals?: unknown
 }
@@ -150,12 +151,28 @@ function App() {
                 )}
               </div>
             )}
-            {output.llm_justification && (
-              <div className="output-card full-width">
-                <h3>LLM Justification</h3>
-                <p>{output.llm_justification}</p>
-              </div>
-            )}
+            <div className="output-card full-width">
+              <h3>LLM Justification</h3>
+              {output.llm_justification ? (
+                typeof output.llm_justification === "object" ? (
+                  <div className="llm-justification-fields">
+                    {Object.entries(output.llm_justification).map(([key, val]) => (
+                      <div key={key}>
+                        <strong>{key.replace(/_/g, " ")}:</strong> {String(val)}
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <p>{String(output.llm_justification)}</p>
+                )
+              ) : (
+                <p className="failure">
+                  {output.llm_justification_meta?.error
+                    ? `LLM failed: ${output.llm_justification_meta.error}`
+                    : "No justification returned (LLM may have failed or was skipped)."}
+                </p>
+              )}
+            </div>
           </div>
         </section>
       )}
