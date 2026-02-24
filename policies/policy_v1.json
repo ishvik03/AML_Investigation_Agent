@@ -1,0 +1,50 @@
+
+{
+  "policy_version": "GT_V1",
+  "philosophy": "Balanced",
+
+  "decision_hierarchy": [
+    "CLOSE_NO_ACTION",
+    "L1_REVIEW",
+    "ESCALATE_L2",
+    "SAR_REVIEW_L2"
+  ],
+
+  "hard_escalation_rules": {
+    "SAR_REVIEW_L2": [
+      "pattern_present AND high_sev AND aggregated_score >= 300",
+      "high_sev AND aggregated_score >= 400",
+      "pattern_present AND aggregated_score >= 450",
+      "customer_risk == High AND (pattern_present OR aggregated_score >= 350)"
+    ]
+  },
+
+  "strong_escalation_rules": {
+    "ESCALATE_L2": [
+      "pattern_present AND aggregated_score >= 250",
+      "high_sev AND aggregated_score >= 250",
+      "total_alerts >= 8 AND aggregated_score >= 250",
+      "crypto_percentage >= 30 AND pattern_present",
+      "max_tx_amount >= 25000 AND (pattern_present OR high_sev)"
+    ]
+  },
+
+  "l1_review_rules": {
+    "L1_REVIEW": [
+      "aggregated_score >= 120",
+      "total_alerts >= 3",
+      "customer_risk == Medium AND aggregated_score >= 80"
+    ]
+  },
+
+  "close_rules": {
+    "CLOSE_NO_ACTION": [
+      "aggregated_score < 120",
+      "total_alerts < 3",
+      "pattern_present == false",
+      "high_sev == false"
+    ]
+  },
+
+  "conflict_resolution": "Highest severity rule wins"
+}
