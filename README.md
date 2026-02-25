@@ -3,6 +3,8 @@
 An agentic pipeline that automates AML case investigation: it computes risk and behavior signals, runs a policy engine, then generates an LLM-backed justification for the decision. Built with LangGraph, FastAPI, and React.
 
 ---
+![AML_Investigation_Agent](images/D4FE330E-81BA-4980-B855-DD2420837FF3.png)
+---
 
 ## What problem does this solve?
 
