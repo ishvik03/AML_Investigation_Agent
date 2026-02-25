@@ -4,6 +4,9 @@ An agentic pipeline that automates AML case investigation: it computes risk and 
 
 ---
 ![AML_Investigation_Agent](images/D4FE330E-81BA-4980-B855-DD2420837FF3.png)
+
+---
+![AML_Investigation_Agent](images/7848335C-A538-45AA-831E-ADF3BB812D54.png)
 ---
 
 ## What problem does this solve?
