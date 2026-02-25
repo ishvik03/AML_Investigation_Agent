@@ -91,7 +91,7 @@ Return valid JSON only in the following format:
   "recommended_action_rationale": "..."
 }
 
-Do not include commentary outside the JSON.
+Return raw JSON only — no markdown fences, no extra text. Use straight quotes.
 
 """
 

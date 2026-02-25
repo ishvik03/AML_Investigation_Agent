@@ -3,14 +3,13 @@ from typing import Any, Dict
 from langgraph.graph import StateGraph, END
 from agent.graph.state import AgentState
 
-
 from agent.graph.node import (
     node_calculate_risk_signals,
     node_extract_behavior_signals,
-    node_llm_justification,
     node_validate_output,
     make_node_policy_engine,
 )
+from agent.graph.node_llm_justification import node_llm_justification
 
 from agent.policy_engine.policy_engine import PolicyEngine
 

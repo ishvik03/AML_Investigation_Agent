@@ -94,8 +94,15 @@ def node_validate_output(state: Dict[str, Any]) -> Dict[str, Any]:
         errors.append("Missing policy_decision in state.")
 
     # LLM justification is optional; if present, ensure it’s not empty
-    if state.get("llm_justification") is not None:
-        if not isinstance(state["llm_justification"], str) or not state["llm_justification"].strip():
+    j = state.get("llm_justification")
+    if j is not None:
+        if isinstance(j, dict):
+            if not j or not any(v and str(v).strip() for v in j.values()):
+                errors.append("llm_justification is present but empty/invalid.")
+        elif isinstance(j, str):
+            if not j.strip():
+                errors.append("llm_justification is present but empty/invalid.")
+        else:
             errors.append("llm_justification is present but empty/invalid.")
 
     ok = len(errors) == 0

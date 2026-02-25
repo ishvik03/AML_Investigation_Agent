@@ -4,7 +4,7 @@ Minimal test: one API call to LM Studio. Run from project root:
 """
 from openai import OpenAI
 
-LM_STUDIO_BASE_URL = "http://127.0.0.1:1234"  # LM Studio OpenAI-compatible API
+LM_STUDIO_BASE_URL = "http://127.0.0.1:1234/v1"  # LM Studio expects /v1/chat/completions
 LM_STUDIO_API_KEY = "sk-lm-Wp2H8t22:wWEOMFLZ1V4C5DXjRtQN" 
 
 def main():
